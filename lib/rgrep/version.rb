@@ -1,3 +1,3 @@
-module Rgrep
-  VERSION = "0.0.1"
+module RGrep
+  VERSION = '0.0.1'
 end
